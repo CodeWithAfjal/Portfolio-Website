@@ -1,6 +1,6 @@
 import React from 'react'
 // import './App.css'
-import './Index.css'
+import './index.css'
 import { About } from './Components/About/About'
 import { Contact } from './Components/Contact/Contact'
 import { Education } from './Components/Education/Education'
