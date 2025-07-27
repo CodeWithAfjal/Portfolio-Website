@@ -8,7 +8,7 @@ import { Experiance } from './Components/Experiance/Experiance'
 import { Footer } from './Components/Footer/Footer'
 import { Navbar } from './Components/Navbar/Navbar'
 import { Skills } from './Components/Skills/Skills'
-import BlurBlob from './blurBlob'
+import BlurBlob from './BlurBlob'
 import Work from './Components/Work/Work'
 
 function App() {
