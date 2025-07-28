@@ -47,7 +47,7 @@ export const Education = () => {
                   <p className="mt-4 text-gray-400 font-bold">{edu.date}</p>
                 </div>
               </div>
-              <p>{edu.desc}</p>
+              <p className="text-xl text-gray-600 mt-4 font-semibold">{edu.desc}</p>
             </div>
           </div>
         ))}

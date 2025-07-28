@@ -38,7 +38,7 @@ export const About = () => {
 
       </ReactTypingEffect>
        </h3>
-       <p className='text-[#514d58] text-base sm:text-lg mb-10 mt-10 leading-relaxed'>
+       <p className='font-semibold text-[#514d58] text-base sm:text-lg mb-10 mt-10 leading-relaxed'>
         I'm a Front-End Developer with a strong foundation in building responsive, user-centric web applications using React, JavaScript, HTML/CSS, Tailwind CSS, and Bootstrap.With hands-on experience developing real-time projects, I focus on clean code, intuitive design, and performance-driven development. I enjoy transforming ideas into smooth, interactive digital experiences that deliver real value.
        </p>
        <a href="/CV/MyCV.pdf"
@@ -53,8 +53,8 @@ export const About = () => {
       </div>
       <div className="md:w-1/2 flex justify-center md:justify-end ">
       <Tilt className='w-48 h-48 sm:w-64 sm:h-100 md:w-[30rem] md:h-[30rem] border-4 border-purple-700 rounded-full'
-            tiltMaxAngleX={20}
-            tiltMaxAngleY={20}
+            tiltMaxAngleX={10}
+            tiltMaxAngleY={10}
             perspective={1000}
             scale={1.1}
             transitionSpeed={1000}
